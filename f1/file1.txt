@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 i love areeb.
 who are you mai to areeb hu kon ho bhai
+=======
+<<<<<<< HEAD
+I love areeb khan humai.
+my name is anthony ghonsalvis mai duniya me akela hu jaha chahe jab cahahe chala jaye.
+======
+i love areeb.
+>>>>>>> 9b84ade04f1fae81dcadd36ea96fb185787a69c0
+>>>>>>> Cola
